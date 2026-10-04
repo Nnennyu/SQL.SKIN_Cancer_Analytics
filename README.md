@@ -5,4 +5,4 @@ Providing a structured dataset and digital tools that support medical research, 
 Creating data-driven insights that can assist dermatologists in early-stage detection of skin cancer, enhance both the quality and the timeline of decision-making, and ultimately improve public health outcomes
 
 Through a combination of AI-powered diagnostic tools, real-world clinical data, and SQL-based research
-<img width="3094" height="438" alt="image" src="https://github.com/user-attachments/assets/c69c718d-586d-465d-94d9-c1c6812e2eb7" />
+<img width="3094" height="438" alt="image" src="Skin_Cancer_SQL_Excel_Dashboard.png" />
